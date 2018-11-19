@@ -49,3 +49,15 @@ iframe {
 p {
    padding-left: 25px;
 }
+
+a {
+   color: #faebd7;
+}
+
+a:visited {
+   color: #b0c4de;
+}
+
+a:hover {
+   color: #ff0000;
+}
