@@ -75,3 +75,17 @@ a:visited {
 a:hover {
    color: #ff0000;
 }
+
+/* Leaderboard sheet properties */
+table {
+    border-collapse: collapse;
+    width: 65%;
+    margin-left: 14px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+td, th {
+    text-align: left;
+    padding: 10px;
+    border: 4px solid #dddddd;
+}
